@@ -1,4 +1,4 @@
-class Go < Formula
+class GoSnapshot < Formula
   desc "Go programming environment"
   homepage "https://golang.org"
   url "https://github.com/sreis/go/archive/go1.5-SNAPSHOT.tar.gz"
